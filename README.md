@@ -26,3 +26,11 @@ Given an array of numbers and a target number, return the indices of two numbers
 4. Add your solution in your chosen language
 5. Commit and push: `git add . && git commit -m "Solution in [language]" && git push`
 6. Open a Pull Request!
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
